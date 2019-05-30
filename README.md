@@ -1,2 +1,2 @@
-# openMPI-with-files
-parallel openMPI 
+# OMP
+parallel OMP
